@@ -1,0 +1,13 @@
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\bin\Debug\netcoreapp3.1\Lista de objetos.exe
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\bin\Debug\netcoreapp3.1\Lista de objetos.deps.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\bin\Debug\netcoreapp3.1\Lista de objetos.runtimeconfig.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\bin\Debug\netcoreapp3.1\Lista de objetos.runtimeconfig.dev.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\bin\Debug\netcoreapp3.1\Lista de objetos.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\bin\Debug\netcoreapp3.1\Lista de objetos.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\obj\Debug\netcoreapp3.1\Lista de objetos.csprojAssemblyReference.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\obj\Debug\netcoreapp3.1\Lista de objetos.AssemblyInfoInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\obj\Debug\netcoreapp3.1\Lista de objetos.AssemblyInfo.cs
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\obj\Debug\netcoreapp3.1\Lista de objetos.csproj.CoreCompileInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\obj\Debug\netcoreapp3.1\Lista de objetos.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\obj\Debug\netcoreapp3.1\Lista de objetos.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Lista de objetos\obj\Debug\netcoreapp3.1\Lista de objetos.genruntimeconfig.cache
